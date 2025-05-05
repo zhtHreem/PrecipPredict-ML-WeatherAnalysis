@@ -1,4 +1,4 @@
-# Weather Analysis - Rain Prediction
+# PrecipPredict - Weather Analysis 
 
 ## Overview
 This project aims to predict rainfall using weather data by employing machine learning and deep learning techniques. We leveraged feature selection methods and built predictive models to forecast precipitation based on meteorological variables such as temperature, humidity, and wind speed.
