@@ -77,10 +77,6 @@ To identify the most significant features for precipitation prediction, we used 
   - Better planning for crop planting and harvesting.
   - Improved risk management for extreme weather events.
 
-### Requirements for Implementation:
-- **Infrastructure**: Data storage for continuous updates, edge computing for local predictions.
-- **Integration**: With existing farm management software systems.
-- **Model Retraining**: Periodic retraining with new data to maintain accuracy.
 
 
 
